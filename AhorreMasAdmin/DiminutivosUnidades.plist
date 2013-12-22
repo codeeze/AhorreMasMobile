@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Unidades</key>
+	<string>unidades</string>
+	<key>Galones</key>
+	<string>gal</string>
+	<key>Kilogramos</key>
+	<string>kg</string>
+	<key>Litros</key>
+	<string>litros</string>
+	<key>Mililitros</key>
+	<string>ml</string>
+	<key>Miligramos</key>
+	<string>mg</string>
+	<key>Gramos</key>
+	<string>gramos</string>
+</dict>
+</plist>
